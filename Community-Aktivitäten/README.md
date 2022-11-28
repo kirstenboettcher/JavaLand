@@ -39,6 +39,8 @@ Dauer: 1 Stunde.
 
 Ausstattung: keine.
 
+Bestätigung Agenda: 22.03., 07 Uhr, Eingang Ling Bao
+
 
 ## JavaLand Kung-Fu ([JUG Goldstadt](http://jugpf.de/): [*Markus KARG*](https://github.com/mkarg))
 
@@ -53,7 +55,7 @@ Dauer: 1 Stunde.
 Ausstattung: Freier Platz ohne Bestuhlung für alle Teilnehmer, optimalerweise im Community-Zelt oder bei sehr gutem Wetter auch im Freien.
 
 
-## Apache Maven BOF ([JUG Oberpfalz](http://jug-oberpfalz.de/): [*Richard FICHTNER*](https://github.com/rfitchtner))
+## Apache Maven BOF ([JUG Oberpfalz](http://jug-oberpfalz.de/): [*Richard FICHTNER*](https://github.com/rfitchtner)) 
 
 Es bewegt sich viel in der Welt von Maven. In diesem BoF laden wir *alle, die mit Maven zu tun haben*, zur Diskussion ein. Es spielt keine Rolle, ob Du Anwender:in, Contributor oder Committer bist, mach einfach mit.
 
@@ -66,6 +68,9 @@ Wunsch-Slot: Am liebsten abends vor dem Abendessen, damit man ggf. beim Essen we
 Dauer: 1 Stunde.
 
 Ausstattung: Raum für ca. 20 Personen mit Sitzgelegenheiten; Beamer brauchen wir denk ich nicht unbedingt, wenn einer da ist schadet es nicht.
+
+Bestätigung Agenda: 21.03., 13:15-14:00, Community Room & 14:00-14:45 Uhr, Community Room 
+zweiter Slot --> "Developer Productivity Engineering"
 
 
 ## JavaLand Sternfahrt ([JUG Schweiz](https://www.jug.ch/): [*Marcus Fihlon*](https://github.com/McPringle))
@@ -127,6 +132,7 @@ Dauer: 2,5 Stunden.
 
 Ausstattung: Raum für ca. 20 Personen mit Sitzgelegenheiten; Beamer für die Vorführungen und Kurzpräsentationen. Jeder braucht Platz für sein Laptop um mitmachen zu können. Strom und WLAN 
 
+Bestätigung Agenda: 21.03., 17:00-19:30, Community Room
 
 ## Architecture Kata (JUG Darmstadt: [*Sebastian Rose*](https://twitter.com/srose204), [*Alexander Schwartz*](https://twitter.com/ahus1de))
 
@@ -141,6 +147,8 @@ Wunsch-Slot: Anreisetag Abends.
 Dauer: 2,5 Stunden.
 
 Ausstattung: Papier/Whiteboard/Flipchart/irgendwas zum Malen. Gruppentische a max 5-6 Teilnehmer pro Gruppe. Bis zu 8 Tische.
+
+Bestätigung Agenda: 22.03. 14:00-16:30, Café Törtchen
 
 ## Functional Fun (Clojure UG Düsseldorf [Christian Meter](https://github.com/n2o), [Björn Ebbinghaus](https://github.com/MrEbbinghaus), [Jens Bendisposto](https://github.com/bendisposto))
 
@@ -161,6 +169,8 @@ Vorkenntnisse in Clojure sind nicht notwendig.
   - Das Plugin [Calva](https://calva.io/) installieren  
 
 Anforderungen an den Ort: W-LAN mit Internetzugang, Bildschirm für Intro, Gruppenarbeitstische, Steckdosen
+
+Bestätigung Agenda: 21.03., 11:00-13:00, Community Room
 
 ## Community Unkonferenz ([JUG Darmstadt](https://www.jug-da.de/): [Gerd Aschemann](https://github.com/ascheman), [JUG Stuttgart](https://www.jugs.org/): [Tobias Frech](https://github.com/JOpsDev))
 
@@ -193,6 +203,8 @@ Pro Raum: ein Flipchart oder eine Pin-Wand mit Flip-Chart-Papier, große Karten/
 
 Best case: im Tagungsraum-Bereich des Ling-Bao [Wang Wei](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_wang_wei.pdf) [Fuxing](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_fuxing.pdf) [Shouxing](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_shouxing.pdf) etc.
 
+Bestätigung Agenda: 20.03., 16:00-19:00, Wang Wei, Fuxing, Shouxing (Hotel Ling Bao)
+
 ## Wir entwickeln den Javaland Coin (JUG Dortmund: [*Hendrik Ebbers*](https://twitter.com/hendrikEbbers), JUG Freiburg: [*Michael Heinrichs*](https://twitter.com/net0pyr))
 
 In den letzten Jahren sind Distributed-Ledger-Technologien wie Blockchain und Hashgraph ein Teil unserer modernen Welt geworden. Auf dieser Basis können mit Hilfe von Smart Contracts und Tokens unterschiedlichste Use Cases umgesetzt werden. Auch wenn manche dieser Use Cases wie der Verkauf von generierten Affen-PNGs eher fragwürdig ist, gibt es auch wirklich sinnvolle Szenarien in denen die Technologien zum Einsatz kommen.
@@ -209,6 +221,8 @@ Wunsch-Slot: Nicht wenn die Achterbahnen auf haben :)
 
 Dauer: 2 Stunden.
 
+Bestätigung Agenda: 21.03., 12:30-14:30, Community Room
+
 ## Let's try: docToolchain ([EuregJUG Maas-Rhine](http://www.euregjug.eu/): [Merlin Bögershausen](https://github.com/mboegers))
 Beschreibung: Ausprobieren ist in der Gruppe immer einfacher und lustiger!
 Lass uns zusammen die [docToolchain](http://doctoolchain.org/docToolchain/v2.0.x/) ausprobieren und nutzen lernen.
@@ -222,6 +236,8 @@ Vorraussetzung: Wenn der [Setup der DocToolchain](http://doctoolchain.org/docToo
 Wunsch-Slot: Di oder Mi, nicht abends
 
 Ausstattung: Ein Beamer, Strom
+
+Bestätigung Agenda: 22.03., 09:00-11:00, Community Room
 
 
 ## Flexible Softwarearchitektur mit der Clean Architecture ([JUG Darmstadt](https://www.jug-da.de/): Matthias Eschhold und Falk Sippach)
@@ -249,6 +265,7 @@ Keine speziellen
 ### Ausstattung
 Tische mit Stühlen, Flipchart (gern auch mehrere), Beamer, Strom, WLAN
 
+Bestätigung Agenda: 21.03., 14:50-16:50, Community Room
 
 ## Developer on the Stage - Zusammen mit erfahrenen Speakern deinen ersten eigenen Vortrag entwickeln! (JUG Darmstadt: Sergej Tihonov, Falk Sippach; JUG Ostfalen: Steven Schwenke)
 
@@ -264,6 +281,8 @@ Wunsch-Zeitslot: Gern wieder im Anschluss an einen thematisch zugehörigen Vortr
 
 Ausstattung: ein Vortragsraum oder eines der Cafés.
 
+Bestätigung Agenda: 22.03., 12:30-13:30, Café Törtchen
+
 
 ## "Java 20 ruft JDK 1..20 Tools" Workshop ([JUG Bonn](https://github.com/jug-bonn): Christian Stein)
 
@@ -278,6 +297,7 @@ Dienstag oder Mittwoch, tagsüber - gerne auch (zusätzlich) am Montag im Vorpgr
 ### Ausstattung
 Tische mit Stühlen, Beamer, Strom, WLAN
 
+Bestätigung Agenda: 22.03., 12:00-14:00 Community Room 
 
 ## Die "Java by Comparison" Kata ([JUG Darmstadt](https://www.jug-da.de/): Simon Harrer, Sebastian Rose und Falk Sippach)
 
@@ -302,6 +322,7 @@ Java-Enwickler
 ### Ausstattung
 Tische mit Stühlen, Flipchart, Beamer, Strom, WLAN
 
+Bestätigung Agenda: 20.03., 16:30-19:00, Dambali (Hotel Matamba)
 
 ## Kreativ durch die JavaLand - das etwas andere Event für Zwischendurch (Lisa Moritz (JUG Darmstadt), Nora Schöner (JUG Nürnberg))
 
@@ -323,6 +344,8 @@ Wir treffen uns alle zwei Stunden in der Community Hall und zeigen dir die beste
 Wir bieten das Sketchnoting + Mini-Me Zeichnen jeweils 3x am Dienstag und Mittwoch an. Die genauen Zeiten klären wir nach Absprache (z. B. 11 Uhr, 13 Uhr, 15 Uhr). Zusätzlich wollen wir zwischen den Zeiten den Raum für eine kreative Pause für alle Teilnehmenden bereitstellen.
 Wir benötigen einen Tisch in der Community Halle, 1 Flipchart und Blöcke/Stifte.
 
+Bestätigung Agenda: 21.03., 11, 15, 17 Uhr, Working Area (Community Hall), 22.03., 9, 12, 15 Uhr, Working Area (Community Hall)
+
 
 ## Responsive Anwendungen mit Kotlin Multiplatform ([JUG Darmstadt](https://www.jug-da.de/): [Michal Harakal](michal@harakal.de) und [Alexander von Below](alex@vonbelow.com))
 
@@ -338,6 +361,7 @@ Java-/Kotlin-Enwickler
 ### Ausstattung
 Tische mit Stühlen, Flipchart, Beamer, Strom, WLAN
 
+Bestätigung Agenda: 22.03., 14:30-17:30, Community Room
 
 ## JavaLand4"Große"Kids (Arbeitstitel) (JUGHamburg / [Kids4IT](http:://www.kids4it.de) / [*Fin Labusch*](mailto:fin@labusch.de))
 Beschreibung:
@@ -366,3 +390,5 @@ Keine.
 
 ### Ablauf
 Kein fester Ablauf. Die Teilnehmer:innen können jederzeit kommen und die MINT-Spielzeuge ausprobieren.
+
+Bestätigung Agenda: 20.03., 15:30-17:30, STOCKS, 22.03., 13:00-15:00, Working Area (Community Hall)
